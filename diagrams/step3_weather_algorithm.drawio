@@ -1,0 +1,150 @@
+<mxfile host="65bd71144e">
+    <diagram id="GyqlyMGQdcFK8-M2zX2m" name="Page-1">
+        <mxGraphModel dx="1317" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="80" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Температура =&amp;gt;&amp;nbsp;&lt;div&gt;20 граудусов&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="180" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="150" y="300" as="sourcePoint"/>
+                        <mxPoint x="200" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="10">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="150" y="300" as="sourcePoint"/>
+                        <mxPoint x="260" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.606;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="150" y="300" as="sourcePoint"/>
+                        <mxPoint x="10" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Да" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="нет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="420" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="110" y="380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="Лёгкая одежда" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="110" y="380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="Тёплая одежда" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="420" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="sP8BVvkkG3_E3DSdicGE" name="Page-2">
+        <mxGraphModel dx="1107" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="xoLUOY022aHk2q5azvKG-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="209.68421052631584" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-1" value="&lt;br&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(171, 178, 191); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(229, 192, 123); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(171, 178, 191); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(97, 175, 239); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;WriteLine&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(171, 178, 191); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(152, 195, 121); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&quot;Выбор одежды по погоде&quot;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(171, 178, 191); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;);&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(171, 178, 191);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(229, 192, 123);&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(97, 175, 239);&quot;&gt;WriteLine&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(171, 178, 191);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(152, 195, 121);&quot;&gt;&quot;Введите температуру на улице:&quot;&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre; color: rgb(171, 178, 191);&quot;&gt;);&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-85" y="-100" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-3" target="xoLUOY022aHk2q5azvKG-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="209.68421052631584" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-3" value="int temperature = Convert.ToInt32(Console.Readline());" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="60" width="400" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-6" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="80" y="280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="80" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-7" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="320" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-5" value="if (temperature =&amp;gt; 20)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="210" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-8" target="xoLUOY022aHk2q5azvKG-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-8" value="да" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="280" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-9" target="xoLUOY022aHk2q5azvKG-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-9" value="нет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="280" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-10" value="Console.WriteLine(&quot;Наденьте лёгую одужду&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="-110" y="350" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-16" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xoLUOY022aHk2q5azvKG-12">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-12" value="Console.WriteLine(&quot;Наденьте тёплую одежду&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="350" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="xoLUOY022aHk2q5azvKG-18" value="Console.WriteLine(&quot;Хорошего дня!&quot;)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="410" width="190" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
